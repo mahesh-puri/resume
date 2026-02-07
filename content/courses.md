@@ -10,70 +10,114 @@ These courses are designed to:
 - Focus on real-world engineering
 - Move beyond tutorials → into **professional-grade understanding**
 
-## [👉 **Open the full courses site:** ](https://mahesh-puri.github.io/Courses/){data-no-router}
+<h2>
+👉 <a href="https://mahesh-puri.github.io/Courses/" target="_blank" rel="noopener noreferrer">
+Open the full courses site
+</a>
+</h2>
 
 ---
 
 # 🚀 Course Tracks
 
-## ⚙️ DevOps & Cloud
+<div class="course-track-card">
 
+<h2>⚙️ DevOps & Cloud</h2>
+
+<p>
 Understand how software runs in the real world — containers, CI/CD, orchestration and infrastructure.
+</p>
 
-**Topics covered**
+<strong>Topics covered</strong>
 
-- Docker & container internals
-- Kubernetes & orchestration
-- Linux fundamentals
-- CI/CD pipelines
-- Cloud basics
+<ul>
+<li>Docker & container internals</li>
+<li>Kubernetes & orchestration</li>
+<li>Linux fundamentals</li>
+<li>CI/CD pipelines</li>
+<li>Cloud basics</li>
+</ul>
 
-## [👉 Explore DevOps Track](https://mahesh-puri.github.io/Courses/1-Devops/){data-no-router}
+<a href="https://mahesh-puri.github.io/Courses/1-Devops/" class="course-card-link">
+👉 Explore DevOps Track
+</a>
+
+</div>
 
 ---
 
-## 🧠 Backend Engineering
+<div class="course-track-card">
 
+<h2>🧠 Backend Engineering</h2>
+
+<p>
 Design robust backends, APIs and distributed systems using production-grade patterns.
+</p>
 
-**Topics covered**
+<strong>Topics covered</strong>
 
-- Java & Spring Boot
-- Microservices architecture
-- Databases & messaging systems
-- System design fundamentals
+<ul>
+<li>Java & Spring Boot</li>
+<li>Microservices architecture</li>
+<li>Databases & messaging systems</li>
+<li>System design fundamentals</li>
+</ul>
 
-## [👉 Explore Backend Track](https://mahesh-puri.github.io/Courses/2-Backend/){data-no-router}
+<a href="https://mahesh-puri.github.io/Courses/2-Backend/" class="course-card-link">
+👉 Explore Backend Track
+</a>
+
+</div>
 
 ---
 
-## 🎨 Frontend Engineering
+<div class="course-track-card">
 
+<h2>🎨 Frontend Engineering</h2>
+
+<p>
 Build modern, scalable user interfaces with strong fundamentals and architecture thinking.
+</p>
 
-**Topics covered**
+<strong>Topics covered</strong>
 
-- HTML, CSS fundamentals
-- Modern JavaScript
-- Angular
-- Frontend performance & architecture
+<ul>
+<li>HTML, CSS fundamentals</li>
+<li>Modern JavaScript</li>
+<li>Angular</li>
+<li>Frontend performance & architecture</li>
+</ul>
 
-## [👉 Explore Frontend Track](https://mahesh-puri.github.io/Courses/3-Frontend/){data-no-router}
+<a href="https://mahesh-puri.github.io/Courses/3-Frontend/" class="course-card-link">
+👉 Explore Frontend Track
+</a>
+
+</div>
 
 ---
 
-## 🤖 AI & Machine Learning
+<div class="course-track-card">
 
+<h2>🤖 AI & Machine Learning</h2>
+
+<p>
 Build intuition for modern AI systems and applied machine learning.
+</p>
 
-**Topics covered**
+<strong>Topics covered</strong>
 
-- Machine learning foundations
-- Generative AI & LLMs
-- AI tooling and workflows
-- Practical real-world use cases
+<ul>
+<li>Machine learning foundations</li>
+<li>Generative AI & LLMs</li>
+<li>AI tooling and workflows</li>
+<li>Practical real-world use cases</li>
+</ul>
 
-## [👉 Explore AI / ML Track](https://mahesh-puri.github.io/Courses/4-AI-ML/){data-no-router}
+<a href="https://mahesh-puri.github.io/Courses/4-AI-ML/" class="course-card-link">
+👉 Explore AI & ML Track
+</a>
+
+</div>
 
 ---
 
