@@ -1,223 +1,190 @@
 ---
-title: Mahesh Puri
+title: 🏠 Profile
 ---
 
-# Hi, I'm Mahesh Puri 👋
+<div class="hero-card">
 
-**Principal Software Engineer | Full-Stack Developer | DevOps Engineer**
+<div class="hero-header">
+  <img src="./static/icon.png" class="profile-avatar" />
+  <h1>Hi, I’m Mahesh Puri</h1>
+</div>
 
-I design and build scalable **cloud-native data platforms and microservices** using Java, Spring Boot, Kubernetes, Kafka and modern DevOps practices.
+<p class="hero-subtitle">
+Principal Software Engineer | Full-Stack Developer | DevOps Engineer
+</p>
 
-Currently working at **Eurofins IT Delivery Center, Bangalore**.
+<p class="hero-description">
+I design and build scalable <strong>cloud-native data platforms, microservices and distributed systems</strong>
+using Java, Spring Boot, Kafka and Kubernetes.
+</p>
 
----
+<p class="hero-meta">
+📍 Bangalore, India • 8+ years experience
+</p>
 
 <div class="cta-buttons">
 <a class="cta-button" href="/static/Mahesh-Puri-Resume.pdf" target="_blank">⬇ Download CV</a>
-<a class="cta-button" href="/courses">📚 Courses & Learning Path</a>
-<a class="cta-button" href="/contact">📬 Contact Me</a>
+<a class="cta-button" href="/courses">📚 Courses</a>
+<a class="cta-button" href="/contact">📬 Contact</a>
+</div>
+
 </div>
 
 ---
 
-# 👨‍💻 Profile
+<div>
 
-A passionate coder and enthusiastic software developer with **8+ years of experience** developing, implementing and testing software to meet real-world business requirements.
+## 🚀 Professional Summary
 
-I specialize in backend systems, data pipelines and cloud-native platforms, and I’m passionate about building reliable, scalable software that solves real problems.
+Backend & platform engineer experienced in building **high-scale distributed systems and data pipelines** for global enterprises in AdTech, Banking and GovTech domains.
 
-I enjoy learning, mentoring and contributing to engineering knowledge through my courses hub.
+I focus on:
+
+- Performance optimization
+- Reliability & observability
+- Cloud-native architecture
+- Mentoring engineers & sharing knowledge
+
+</div>
+
+---
+
+<div>
+
+## 🏆 Career Highlights
+
+- 🚀 **90% performance improvement** in large-scale data pipelines
+- 🏆 **3× team award winner** for delivery & tech-debt reduction
+- ☁️ Migrated **7-app ecosystem** to private cloud using IaC
+- ⚡ Built **high-traffic DSP integrations** for US election seasons
+- 👨‍🏫 Mentored developers & interns across multiple teams
+
+</div>
 
 ---
 
-# 🛠 Skills
-
-**Backend & Data**
-
-- Java 17+
-- Spring Boot (Microservices)
-- Spring Framework (Core, MVC, Data JPA, AOP)
-- Spring Boot Actuator
-- Spring Cloud Data Flow
-- Spring Cloud Sleuth & Zipkin
-- Apache Kafka
-- Python
-
-**Frontend**
-
-- Angular
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
-- JavaFX (Desktop Applications)
-
-### DevOps & Cloud
-
-- Docker
-- Kubernetes
-- Linux
-- Ansible
-- Jenkins
-- Apache Maven
-
-### Databases
-
-- Mysql
-- PostgreSQL
-- Redis
-- MongoDB
-
-### Tools & Platforms
-
-- GitHub
-- Bitbucket
-- SVN
-- Postman
-- Swagger UI
-- Intellij IDE / Eclipse / STS
-- Visual Studio Code
-- Databricks (Notebook)
-
----
+<div class="section-card">
 
 # 💼 Experience
 
-## 🏢 Principal Software Engineer — Eurofins IT Delivery Center
+## Principal Software Engineer — Eurofins
 
-**Apr 2025 – Present | Bangalore (Hybrid)**  
+**2025 → Present • Bangalore**
+
 Leading development of enterprise-scale backend services and cloud-native systems.
 
 ---
 
-## 🏢 Senior Software Engineer & Scrum Master — MiQ
+## Senior Software Engineer & Scrum Master — MiQ
 
-**Nov 2022 – Apr 2025 | Bangalore**
+**2022 → 2025 • Bangalore**
 
-### Key Achievements
-
-- Led development of **scalable data processing systems**
-- Won **3 consecutive team awards**
-- Optimized data pipelines → **90% faster processing**
-- Onboarded new DSP integrations (Walmart)
-- Performed Tier-1 DSP load testing
-- Fixed SCDF/Kubernetes production issues
-- Resolved security vulnerabilities (Snyk, Trivy)
+- Built and optimized **large-scale data processing pipelines**
+- Reduced processing time by **90%**
+- Integrated new DSP partners including **Walmart**
+- Led Tier-1 load testing for US political traffic
+- Fixed Kubernetes & SCDF production issues
 - Mentored developers and interns
 
 ---
 
-## 🏢 Analyst Application Development — NetConnect Global
+## Analyst Application Development — NetConnect Global
 
-**Apr 2021 – Nov 2022 | Bangalore**  
-Worked on a **US Global Banking client** across full SDLC.
+**2021 → 2022 • Banking Domain**
 
 ### Key Projects
 
+**Private Cloud Migration**
+
+- Migrated **7 production apps**
+- Built CI/CD using Jenkins + Ansible
+- Automated deployments & infrastructure
+
 **RAC Automation**
 
-- Full-stack development using Spring Boot, Oracle & Angular
+- Full-stack Spring Boot + Angular + Oracle
 - Camunda workflow integration
 
-**Private Cloud Migration (7-app ecosystem)**
-
-- Infrastructure as Code using Jenkins & Ansible
-- Configured Avi, SSO Apache, Certis, Tomcat deployments
-- Built CI/CD pipelines and automated server deployments
-
-**IPLA – Swift Message Transformer**
+**Swift Message Transformer**
 
 - Apache Camel + ActiveMQ integration
-- Implemented OSGI test framework
-- Managed Jenkins build & deployments to UAT/Prod
-
-**Other banking platforms**
-
-- CPAC, EMAS, CPPM, TRADEBOSS
+- OSGI testing + automated deployments
 
 ---
 
-## 🏢 Software Engineer — NeoSOFT Technologies
+## Software Engineer — NeoSOFT
 
-**Jan 2019 – Apr 2021 | Mumbai**  
-Worked onsite for **NSDL e-Governance Infrastructure Ltd.**
+**2019 → 2021 • GovTech / Healthcare**
 
-### Major Projects
+- Telemedicine Platform
+- MOSIP Identity Platform
+- PAN Platform (NSDL)
 
-**Telemedicine Platform**
+Highlights:
 
-- Microservices for patient registration & profile management
-- Custom logging framework across services
-
-**PAN (Form 60) Platform**
-
-- Entity & Sub-Entity microservices
-- Maker-Checker workflow implementation
-- OTP & Email integration (Netcore)
-- DMZ-MZ architecture & Docker logging
-
-**MOSIP – Modular Open Source Identity Platform**
-
-**Pre-Registration Module**
-
-- Angular UI development & Google Maps integration
-
-**Registration Client (JavaFX Desktop App)**
-
-- Complete redesign & new registration modules
-- Keycloak integration & sync modules
-
-**Migration to Electron Desktop App**
-
-- Migrated JavaFX → Angular + Electron
-- Implemented biometric capture & operator authentication
-
-**POCs**
-
-- Two-factor authentication platform
-- Apache Kafka local POC
+- Maker-Checker workflows
+- DMZ architecture
+- JavaFX → Electron migration
+- Kafka POC
 
 ---
 
-## 🏢 Java Software Developer — RSL Pvt Ltd
+## Java Developer — RSL Pvt Ltd
 
-**Nov 2017 – Jan 2019 | Pune**
+**2017 → 2019**
 
-**Medical Business Accounting Software**
+Medical accounting software using JavaFX & Hibernate.
 
-- Implemented Accounts module using JavaFX & Hibernate
+</div>
 
 ---
+
+<div>
 
 # 🎓 Education
 
-**Bachelor of Engineering – Computer Engineering**  
-Dr. D. Y. Patil Institute of Engineering & Technology, Pune  
-2014 – 2017
+**Bachelor of Engineering — Computer Engineering**  
+Pune University (2014 – 2017)
+
+</div>
 
 ---
 
-# 🌍 Personal Details
+<div>
 
-- 📍 Location: Bangalore, India
-- 🗣 Languages: English, Hindi, Marathi
-- 📧 Email: m.puri146@gmail.com
-- 📞 Phone: 9970180146 / 9004996201
-- 🔗 GitHub: https://github.com/mahesh-puri
-- 🔗 LinkedIn: https://www.linkedin.com/in/mahesh-puri
+# 🌍 Personal
+
+📍 Bangalore, India  
+🗣 English • Hindi • Marathi  
+📧 m.puri146@gmail.com  
+📞 9970180146 / 9004996201
+
+🔗 GitHub → https://github.com/mahesh-puri  
+🔗 LinkedIn → https://www.linkedin.com/in/mahesh-puri
+
+</div>
 
 ---
+
+<div>
 
 # 🧠 Current Focus
 
 - Kubernetes & Platform Engineering
-- Kafka & Event-Driven Architecture
-- Cloud Native Systems
-- Building a knowledge sharing hub → [[courses]]
+- Kafka & Event-Driven Systems
+- Cloud Native Architecture
+- Building my knowledge hub → [[courses]]
+
+</div>
 
 ---
 
-# 📫 Contact
+<div>
 
-Interested in collaboration or opportunities?  
+## 🤝 Let’s Connect
+
+Interested in collaboration or opportunities?
+
 👉 [[contact|Open Contact Page]]
+
+</div>

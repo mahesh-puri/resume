@@ -22,6 +22,7 @@ const config: QuartzConfig = {
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
+      favicon: "static/profile.png",
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",

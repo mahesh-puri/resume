@@ -1,8 +1,6 @@
 ---
-title: Courses & Learning Path
+title: 📚 Courses & Learning Path
 ---
-
-# 📚 Courses & Learning Path
 
 Welcome to my **knowledge-sharing hub** where I publish structured learning paths, deep-dive notes and real-world engineering guides.
 

@@ -1,8 +1,8 @@
 ---
-title: Contact Me
+title: 📬 Contact Me
 ---
 
-# 📬 Contact Me
+### Connect With Me : 🔗 [GitHub](https://github.com/mahesh-puri) 🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-puri)
 
 I’m always open to discussing:
 
@@ -36,7 +36,7 @@ I’m always open to discussing:
 
   <div class="form-group">
     <label>Message</label>
-    <textarea name="message" rows="6" placeholder="Tell me about your project or opportunity..." required></textarea>
+    <textarea name="message" rows="3" placeholder="Tell me about your project or opportunity..." required></textarea>
   </div>
 
   <button type="submit" class="contact-submit">
@@ -45,14 +45,6 @@ I’m always open to discussing:
 
 </form>
 </div>
-
----
-
-# 🌐 Connect With Me
-
-- GitHub → https://github.com/mahesh-puri
-- LinkedIn → https://www.linkedin.com/in/mahesh-puri
-- Courses → https://mahesh-puri.github.io/Courses/
 
 ---
 
