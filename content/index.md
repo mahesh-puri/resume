@@ -1,5 +1,5 @@
 ---
-title: Profile | Mahesh Puri
+title: MAHESH PURI | RESUME
 ---
 
 <div class="hero-card">
