@@ -290,3 +290,43 @@
   border: 2px solid var(--secondary);
   box-shadow: 0 3px 10px color-mix(in srgb, var(--dark) 12%, transparent);
 }
+
+/* ================================
+   FINAL FOOTER LAYOUT
+================================ */
+
+.footer-center {
+  text-align: center;
+  margin-top: 25px;
+}
+
+/* Branding */
+.footer-main {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+/* Social links centered */
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  list-style: none;
+  padding: 0;
+  margin: 6px 0 6px 0;
+}
+
+.footer-links li::after {
+  content: "•";
+  margin-left: 14px;
+}
+
+.footer-links li:last-child::after {
+  content: "";
+}
+
+/* Quartz credit small */
+.footer-credit {
+  font-size: 0.75rem;
+  opacity: 0.7;
+}

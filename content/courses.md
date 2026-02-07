@@ -10,7 +10,7 @@ These courses are designed to:
 - Focus on real-world engineering
 - Move beyond tutorials → into **professional-grade understanding**
 
-## [👉 **Open the full courses site:** ](https://mahesh-puri.github.io/Courses/)
+## [👉 **Open the full courses site:** ](https://mahesh-puri.github.io/Courses/){data-no-router}
 
 ---
 
@@ -28,7 +28,7 @@ Understand how software runs in the real world — containers, CI/CD, orchestrat
 - CI/CD pipelines
 - Cloud basics
 
-## [👉 Explore DevOps Track](https://mahesh-puri.github.io/Courses/1-Devops/)
+## [👉 Explore DevOps Track](https://mahesh-puri.github.io/Courses/1-Devops/){data-no-router}
 
 ---
 
@@ -43,7 +43,7 @@ Design robust backends, APIs and distributed systems using production-grade patt
 - Databases & messaging systems
 - System design fundamentals
 
-## [👉 Explore Backend Track](https://mahesh-puri.github.io/Courses/2-Backend/)
+## [👉 Explore Backend Track](https://mahesh-puri.github.io/Courses/2-Backend/){data-no-router}
 
 ---
 
@@ -58,7 +58,7 @@ Build modern, scalable user interfaces with strong fundamentals and architecture
 - Angular
 - Frontend performance & architecture
 
-## [👉 Explore Frontend Track](https://mahesh-puri.github.io/Courses/3-Frontend/)
+## [👉 Explore Frontend Track](https://mahesh-puri.github.io/Courses/3-Frontend/){data-no-router}
 
 ---
 
@@ -73,7 +73,7 @@ Build intuition for modern AI systems and applied machine learning.
 - AI tooling and workflows
 - Practical real-world use cases
 
-## [👉 Explore AI / ML Track](https://mahesh-puri.github.io/Courses/4-AI-ML/)
+## [👉 Explore AI / ML Track](https://mahesh-puri.github.io/Courses/4-AI-ML/){data-no-router}
 
 ---
 
