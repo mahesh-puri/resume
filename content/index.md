@@ -1,5 +1,5 @@
 ---
-title: 🏠 Profile
+title: Profile | Mahesh Puri
 ---
 
 <div class="hero-card">
