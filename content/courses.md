@@ -38,7 +38,7 @@ Understand how software runs in the real world — containers, CI/CD, orchestrat
 <li>Cloud basics</li>
 </ul>
 
-<a href="https://mahesh-puri.github.io/Courses/1-Devops/" class="course-card-link">
+<a href="https://mahesh-puri.github.io/Courses/1-Devops/"  target="_blank" rel="noopener noreferrer" class="course-card-link">
 👉 Explore DevOps Track
 </a>
 
@@ -63,7 +63,7 @@ Design robust backends, APIs and distributed systems using production-grade patt
 <li>System design fundamentals</li>
 </ul>
 
-<a href="https://mahesh-puri.github.io/Courses/2-Backend/" class="course-card-link">
+<a href="https://mahesh-puri.github.io/Courses/2-Backend/"  target="_blank" rel="noopener noreferrer" class="course-card-link">
 👉 Explore Backend Track
 </a>
 
@@ -88,7 +88,7 @@ Build modern, scalable user interfaces with strong fundamentals and architecture
 <li>Frontend performance & architecture</li>
 </ul>
 
-<a href="https://mahesh-puri.github.io/Courses/3-Frontend/" class="course-card-link">
+<a href="https://mahesh-puri.github.io/Courses/3-Frontend/"  target="_blank" rel="noopener noreferrer" class="course-card-link">
 👉 Explore Frontend Track
 </a>
 
@@ -113,7 +113,7 @@ Build intuition for modern AI systems and applied machine learning.
 <li>Practical real-world use cases</li>
 </ul>
 
-<a href="https://mahesh-puri.github.io/Courses/4-AI-ML/" class="course-card-link">
+<a href="https://mahesh-puri.github.io/Courses/4-AI-ML/"  target="_blank" rel="noopener noreferrer" class="course-card-link">
 👉 Explore AI & ML Track
 </a>
 
